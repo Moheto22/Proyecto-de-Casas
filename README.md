@@ -1,23 +1,23 @@
-# 📈 Proyecto regresion Casas 🏠
-Este proyecto consiste en el procesamiento de datos en bruto para luego aplicarles algoritmos de machine learning para poder predecir el precio de las viviendas. Los algoritmos aplicados en este proyecto son la regresion lineal polinomica y el random forest.
+# 📈 Proyecto regresión Casas 🏠
+Este proyecto consiste en el procesamiento de datos en bruto para luego aplicarles algoritmos de machine learning para poder predecir el precio de las viviendas. Los algoritmos aplicados en este proyecto son la regresión lineal polinómica y el random forest.
 Ha sido hecho totalmente en Python 3.8.
 
-## Librerias usadas
+## Librerías usadas
 Pandas, Numpy, Matplotlib, Scikit-Learn
 ## Dataset
 El dataset utilizado para este proyecto contiene información sobre viviendas y sus precios. Algunas de las características clave incluidas son:
 - Precio
-- Superficie en metros cuadrados de sotano
-- Condicion
+- Superficie en metros cuadrados de sótano
+- Condición
 - Vista
-- Año de construccion
-- Año de renovacion
+- Año de construcción
+- Año de renovación
 - Calle
 - Ciudad
 - Codigo postal
 - Pais
 - Dormitorios
-- Superficie en metros cuadrados de la construccion
+- Superficie en metros cuadrados de la construcción
 - Superficie en metros cuadrados de todo el terreno
 - Número de habitaciones
 - Número de baños
